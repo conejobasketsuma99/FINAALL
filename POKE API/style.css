@@ -1,0 +1,109 @@
+@font-face{
+  font-family: Megadeth;
+  src: url("Megadeth.ttf");
+  
+}
+
+body {
+    margin-left: 40%;
+    margin-right: 45%;
+    padding: 0%;
+    text-align: center;
+    background-color: rgb(255, 215, 136);
+    background-image: url(https://i.pinimg.com/originals/ca/e0/1a/cae01ab5cce960db0d7819cc96e97ce8.png);
+    background-position: auto
+  }
+
+footer{
+  position: absolute;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
+  position: fixed;
+bottom: 0;
+left: 0;
+width: 100%;
+}
+
+  .en{
+
+    width: 400px;
+    
+    margin-bottom: -30%;
+  }
+  
+  .container {
+    z-index: 20;
+    position: absolute;
+    margin-left: 318px;
+    margin-right: 0px;
+    margin-top: 30%;
+    margin-bottom: 0%;
+    border-color: #ff7a5900;
+    border-style: solid;
+    width: 250px;
+  }
+
+  .Buscador{
+    font-family: Megadeth;
+    font-size: 32px;
+    position: absolute;
+    margin-top: -178%;
+    margin-bottom: 40%;
+    margin-left: 5px;
+  }
+
+  .Buscador input{
+    width: 170px;
+  }
+
+  .Button{
+    font-family: Megadeth;
+    font-size: 15px;
+    position: absolute;
+    margin-top: -102%;
+    margin-bottom: 0%;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .Button button{
+    width: 172px;
+  }
+
+  .LOGO {
+  position: absolute;
+  margin-left: -55px;
+  margin-right: 0px;
+  width: 150px;
+  margin-top: 238px;
+  margin-bottom: -117%;
+}
+
+
+.Poke{
+  position: absolute;
+  margin-left: -110px;
+  margin-right: 0px;
+  width: 510px;
+  margin-top: 90px;
+  margin-bottom: 0%;
+}
+
+.card-img-top{
+  position: absolute;
+  margin-left: -40px;
+  margin-right: 0px;
+  margin-top: 218px;
+  width: 120px;
+}
+
+.card-title{
+  font-family: Megadeth;
+  font-size: 25px;
+  position: absolute;
+  margin-left: 100px;
+  margin-right: 0px;
+  margin-top: 401px;
+  background: linear-gradient(to top, rgb(0, 0, 0), rgb(0, 0, 0));
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
